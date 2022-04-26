@@ -12,4 +12,4 @@ https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_HMIIC.jpg
 
 This algorithm downloads the image every X minutes and save it to a public directory on the gicc server. X its defined in a file called update_time.conf and the algorithm respond to that time setting while it is running.
 
-This web page displays the latest updated image.
+This web page displays the latest updated image http://132.247.186.67/kadkam8a/index.html
